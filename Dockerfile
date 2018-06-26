@@ -1,5 +1,5 @@
 # nginx-curl
-FROM nginx
+FROM nginx:latest
 MAINTAINER Ewout Prangsma [github:ewoutp]
 
 # Install curl
